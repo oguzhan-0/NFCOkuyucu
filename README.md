@@ -1,4 +1,4 @@
-html
+```html
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -788,3 +788,4 @@ html
   </script>
 </body>
 </html>
+```
